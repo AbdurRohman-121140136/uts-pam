@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447315342969",
+    "project_id": "uts-pam-7ce61",
+    "storage_bucket": "uts-pam-7ce61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447315342969:android:776b1f3e9de505ce5ac6a8",
+        "android_client_info": {
+          "package_name": "com.pam.utspam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHT419tro7ipz_lPS7Q3eNX-cr6hngoUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
